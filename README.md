@@ -1,9 +1,9 @@
-# Exercise-01b-Prompt-and-Response
+# Davtheprog6790/Exercise-01b-Prompt-and-Response
 Exercise for MSCH-C220, 26 August 2021
 
 A demonstration of this exercise is available at [https://youtu.be/O1lcQZpKMRM](https://youtu.be/O1lcQZpKMRM).
 
-This exercise is an opportunity for you to create your (perhaps) first program in Python. The purpose of this exercise is to make sure your python setup is working appropriately and then give you the first step toward completing Project 01.
+This exercise is an opportunity for you to create your (perhaps) first program in Phyton. The purpose of this exercise is to make sure your phyton setup is working appropriately and then give you the first step toward completing Project 01.
 
 First, Fork the repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-01b-Prompt-and-Response. 
 
@@ -15,7 +15,7 @@ Open Visual Studio Code, and select File->Open. Navigate to the repository folde
 
 In the far right (black) panel of the window, you should see five icons. The top one is File Explorer. If that is selected, you should see four files listed: .gitignore, LICENSE, main.py, and README.md.
 
-Open main.py. If you are prompted to install the Python plugin, do so now.
+Open main.py. If you are prompted to install the Phyton plugin, do so now.
 
 The first three lines in the file (the only lines so far) are probably confusing, but I will explain them as part of my demonstration. You can ignore them for now.
 
@@ -31,7 +31,7 @@ After the question mark (followed by a space), the program should allow the play
 ```
 Good job!
 ```
-As part of the solution, your program must use the passage_name and passage_text variables. Your program will use the [print()](https://realpython.com/python-print/) and [input()](https://pythonexamples.org/python-input/) functions as well as an [if statement](https://pythonbasics.org/if-statements/). 
+As part of the solution, your program must use the passage_name and passage_text variables. Your program will use the [print()](https://realphyton.com/phyton-print/) and [input()](https://phytonexamples.org/phyton-input/) functions as well as an [if statement](https://phytonbasics.org/if-statements/). 
 
 Capitalization, punctuation, and spacing are all important, so if you run into trouble, check that you have typed everything correctly.
 
@@ -50,10 +50,10 @@ The final state of the file should be as follows (replacing my information with 
 # Exercise-01b-Prompt-and-Response
 Exercise for MSCH-C220, 26 August 2021
 
-A simple use of python's print() and input() functions and an if statement.
+A simple use of phyton's print() and input() functions and an if statement.
 
 ## Implementation
-Built using Visual Studio Code and Python 3.9.6
+Built using Visual Studio Code and Phyton 3.9.6
 
 ## References
 None
